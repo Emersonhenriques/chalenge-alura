@@ -124,16 +124,6 @@ body {
   font-size: 0.9rem;
 }
 
-.rodape {
-  display: flex;
-  justify-content: center;
-  bottom: 1rem;
-  position: fixed;
-  width: 90%;
-  text-align: center;
-  color: #e1f7f5;
-}
-
 .resultado {
   display: none;
   padding: 12.5rem 3.12rem;
